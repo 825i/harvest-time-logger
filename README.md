@@ -3,7 +3,7 @@ Logs billed time to two instances of Harvest for 2 weeks in advance
 
 ## Description
 
-Uses Harvest v2 API to log time entries to two separate Harvest instances for the same project.
+Uses [Harvest v2 API](https://help.getharvest.com/api-v2/) to log time entries to two separate Harvest instances for the same project.
 
 I created this Python script when when a client project required me to log my hours to two separate systems. This script avoids having to separately log every single day twice in two separate systems.
 
